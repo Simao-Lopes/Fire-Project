@@ -29,13 +29,13 @@ I will develop this continuously and feed it with new data.
 
 ```sql
 
-'''select lat, lon,duration, area_total, alert_date,relative_humidity,wind_intensity,precipitation, ffmc, 
+'''query = select lat, lon,duration, area_total, alert_date,relative_humidity,wind_intensity,precipitation, ffmc, 
         dc,isi,dmc,avg_altitude,avg_inclination,rvdendity,cosn5variety 
         from 
         fires_clean 
         where district in ('Viana do Castelo', 'Viseu', 'Bragança', 'Guarda', 'Vila Real')'''
 ```
-
+3. 03 - Hypothesis Formulation.ipynb - This notebook has my main question hypothesis calculations and mean duration safe ranges for Portugal and top 5 CO2 offender districts.
 
 
 ##### Tableau public: [Link](https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush)
