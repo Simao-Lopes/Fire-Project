@@ -15,7 +15,7 @@ I will develop this continuously and feed it with new data.
 
 During my analysis I found that an assessment by burnt area was a possible metric but probably not the best, so I calcculated the CO2 emissions by district and used it as a metric to define the worst offender districts considering CO2 emissions.
 
-![logo_fire]([https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Background/1817788.jpg](https://github.com/Simao-Lopes/Fire-Project/blob/main/Presentation/Graphs/Co2%20ratios.PNG?raw=true))
+![logo_fire](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Graphs/Co2%20ratios.PNG)
 
 
 ### Folders list
