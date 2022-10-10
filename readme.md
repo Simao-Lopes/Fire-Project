@@ -21,6 +21,8 @@ During my analysis I found that an assessment by burnt area was a possible metri
 
 I was able to build fairly usable models with random forest tree regressor and extended tree regressor. For a better analysis each district should have his own model because the GPS coordinates are used in the model and it's not recomended to mix them, increasing model building time. I also included pickling capabilities so a model after computation can be unpacked and reused really fast, a unpacking function is also included.
 
+**Original data in RED, model results in GREEN**
+
 ![model_plot](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Graphs/transferir.png)
 
 ### Folders list
