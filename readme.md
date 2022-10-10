@@ -64,4 +64,4 @@ I was able to build fairly usable models with random forest tree regressor and e
 
 
 
-Disclaimer: Academic project only, not for media use. Use the data freely.
+**Disclaimer:** Academic project only, not for media use. Use the data freely.
