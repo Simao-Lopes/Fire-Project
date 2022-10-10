@@ -8,6 +8,15 @@ In Portugal, every year we have a problem with fires. Most of the time it's due 
 
 I will develop this continuously and feed it with new data.
 
-### Link to tableau public: https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush
+##### Folders list
+
+Models: this folder contains the resgression results and is defined as a target to save computed models. They are not included because of github size restrictions
+NEW_DATA: this folder contains the raw fires data.
+Preserntation: Conclusions of the fire analysis in powerpoint presentation, all graphs inside their respective folder.
+Research: All usefull research papers that I had to research.
+
+
+
+##### Link to tableau public: https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush
 
 Disclaimer: Academic project only, not for media use. Use the data freely.
