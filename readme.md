@@ -11,12 +11,17 @@ In Portugal, every year we have a problem with fires. Most of the time it's due 
 
 I will develop this continuously and feed it with new data.
 
-## Conclusions
+## Analysis conclusions
 
-During my analysis I found that an assessment by burnt area was a possible metric but probably not the best, so I calcculated the CO2 emissions by district and used it as a metric to define the worst offender districts considering CO2 emissions.
+During my analysis I found that an assessment by burnt area was a possible metric but probably not the best, so I calcculated the CO2 emissions by district and used it as a metric to define the worst offender districts considering CO2 emissions. During hypotesis I learned that the re-ignition rates on this 5 districts is way higher than Portugal's re-ignition mean, but the average fire count is actually lower in the top 5.
 
-![logo_fire](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Graphs/Co2%20ratios.PNG)
+![co2_plot](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Graphs/Co2%20ratios.PNG)
 
+## Modeling data
+
+I was able to build fairly usable models with random forest tree regressor and extended tree regressor. For a better analysis each district should have his own model because the GPS coordinates are used in the model and it's not recomended to mix them, increasing model building time. I also included pickling capabilities so a model after computation can be unpacked and reused really fast, a unpacking function is also included.
+
+![model_plot](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Graphs/transferir.png)
 
 ### Folders list
 
