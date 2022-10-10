@@ -54,5 +54,14 @@ I was able to build fairly usable models with random forest tree regressor and e
 3. 03 - Hypothesis Formulation.ipynb - This notebook has my main question hypothesis calculations and mean duration safe ranges for Portugal and top 5 CO2 offender districts.
 
 
+## Credits
+
+1. Nuzulul Khairu Nissa, The Experiment of Forest Fires Prediction using Deep Learning -https://medium.com/mlearning-ai/the-experiment-of-forest-fires-prediction-using-deep-learning-d537e8c8e3a2
+2. Fire Weather Index (FWI) System - https://www.nwcg.gov/publications/pms437/cffdrs/fire-weather-index-system
+3. Jorge Miguel Gomes, A repository for ICNF data - https://github.com/vostpt/ICNF_DATA
+4. Paulo Cortez & Anibal Morais, A Data Mining Approach to Predict Forest Fires using Meteorological Data 
+5. Joana da Fonseca Valente, Modelação do fogo florestal e os seus impactes na qualidade do ar.
+
+
 
 Disclaimer: Academic project only, not for media use. Use the data freely.
