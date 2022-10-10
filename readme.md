@@ -12,7 +12,7 @@ I will develop this continuously and feed it with new data.
 
 Models: this folder contains the resgression results and is defined as a target to save computed models. They are not included because of github size restrictions
 NEW_DATA: this folder contains the raw fires data.
-Preserntation: Conclusions of the fire analysis in powerpoint presentation, all graphs inside their respective folder.
+Presentation: Conclusions of the fire analysis in powerpoint presentation, all graphs inside their respective folder.
 Research: All usefull research papers that I had to research.
 
 
