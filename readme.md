@@ -27,6 +27,6 @@ All usefull research papers that I had to research.
 
 
 
-##### Link to tableau public: https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush
+##### Tableau public: [Link](https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush)
 
 Disclaimer: Academic project only, not for media use. Use the data freely.
