@@ -1,8 +1,10 @@
 ![logo_fire](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Background/1817788.jpg)
 
-# Fires in Portugal 
+Alt-H1
+Fires in Portugal 
 
-### The problem
+Alt-H2
+The problem
 
 In Portugal, every year we have a problem with fires. Most of the time it's due either to poor resource allocation, or insufficient resources. I try to understand if it's possible to create a model to predict with acceptable accuracy the burnt area. In the process of cleaning and studying the dataset, I found many interesting things that are explained in the presentation. Feel free to use everything on this repository for your projects.
 
