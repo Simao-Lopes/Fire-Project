@@ -1,4 +1,4 @@
-![logo_fire](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![logo_fire](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Background/1817788.jpg)
 
 # Fires in Portugal 
 
