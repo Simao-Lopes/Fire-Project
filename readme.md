@@ -13,6 +13,8 @@ I will develop this continuously and feed it with new data.
 
 ## Analysis conclusions
 
+**Tableau public: [Link](https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush)**
+
 During my analysis I found that an assessment by burnt area was a possible metric but probably not the best, so I calcculated the CO2 emissions by district and used it as a metric to define the worst offender districts considering CO2 emissions. During hypotesis I learned that the re-ignition rates on this 5 districts is way higher than Portugal's re-ignition mean, but the average fire count is actually lower in the top 5.
 
 ![co2_plot](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Graphs/Co2%20ratios.PNG)
@@ -52,6 +54,5 @@ I was able to build fairly usable models with random forest tree regressor and e
 3. 03 - Hypothesis Formulation.ipynb - This notebook has my main question hypothesis calculations and mean duration safe ranges for Portugal and top 5 CO2 offender districts.
 
 
-##### Tableau public: [Link](https://public.tableau.com/app/profile/sim.o6187/viz/NewFire-Project/Bush)
 
 Disclaimer: Academic project only, not for media use. Use the data freely.
