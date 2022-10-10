@@ -27,12 +27,14 @@ I will develop this continuously and feed it with new data.
 1. 01 -Main dataset manipulation.ipynb - This jupyter notebook cleans our data to the best possible and valid shape so we can treat them on tableau or other app, after the proccess everything is saved to a csv and a MYSQL database for further use.
 2. 02 - Modeling Data.ipynb - In this notebook I import just the relevant columns from MySQL database, treat, scale and make models. It's recommended to make individual models for each district, during my process of analysis I used the top 5 CO2 ofenders to test and scoring the models. **To change districts just change the where clause on the sql query.**
 
+'''sql
+
 '''select lat, lon,duration, area_total, alert_date,relative_humidity,wind_intensity,precipitation, ffmc, 
         dc,isi,dmc,avg_altitude,avg_inclination,rvdendity,cosn5variety 
         from 
         fires_clean 
         where district in ('Viana do Castelo', 'Viseu', 'Bragança', 'Guarda', 'Vila Real')'''
-
+'''
 
 
 
