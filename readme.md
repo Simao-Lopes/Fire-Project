@@ -1,6 +1,7 @@
 ![logo_fire](https://raw.githubusercontent.com/Simao-Lopes/Fire-Project/main/Presentation/Background/1817788.jpg)
 
 Alt-H1
+======
 Fires in Portugal 
 
 Alt-H2
