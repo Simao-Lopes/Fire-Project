@@ -13,17 +13,13 @@ I will develop this continuously and feed it with new data.
 
 ### Folders list
 
-1 .Models
-this folder contains the resgression results and is defined as a target to save computed models. They are not included because of github size restrictions.
+1 .Models, this folder contains the resgression results and is defined as a target to save computed models. They are not included because of github size restrictions.
 
-2 .NEW_DATA
-this folder contains the raw fires data.
+2 .NEW_DATA, this folder contains the raw fires data.
 
-3. Presentation
-Conclusions of the fire analysis in powerpoint presentation, all graphs inside their respective folder.
+3. Presentatio, conclusions of the fire analysis in powerpoint presentation, all graphs inside their respective folder.
 
-4. Research
-All usefull research papers that I had to research.
+4. Research, all usefull research papers that I had to research.
 
 
 
